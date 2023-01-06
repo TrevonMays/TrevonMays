@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **THREE.js, Blender, Python,**
 
-- 📝 I regularly write articles on [Dev.to](Dev.to)
+- 📝 I regularly write articles on [Dev.to]
 
 - 📫 How to reach me **mays.trevon94@gmail.com**
 
