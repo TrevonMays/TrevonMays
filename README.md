@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevonmays" alt="trevonmays" /></a> </p>
 
-- 🔭 I’m currently working on **OFF-Field**
+- 🔭 I’m currently working on **talkAnimate**
 
 - 🌱 I’m currently learning **THREE.js, Blender, Python, and Ejs**
 
