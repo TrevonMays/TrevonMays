@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OFF-Field**
 
-- 🌱 I’m currently learning **THREE.js, Blender, Python,**
+- 🌱 I’m currently learning **THREE.js, Blender, Python, and Ejs**
 
 - 📝 I regularly write articles on [Dev.to]
 
