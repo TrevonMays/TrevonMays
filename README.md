@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevonmays" alt="trevonmays" /></a> </p>
 
-- 🔭 I’m currently working on **talkAnimate**
+- 🔭 I’m currently working at **SuddenlySpaces**
 
-- 🌱 I’m currently learning **THREE.js, Blender, Python, and Ejs**
-
-- 📝 I regularly write articles on [Dev.to]
+- 🌱 I’m currently learning **PHP,Sass, and Blockchain**
 
 - 📫 How to reach me **mays.trevon94@gmail.com**
 
